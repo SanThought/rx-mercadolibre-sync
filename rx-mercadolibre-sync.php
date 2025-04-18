@@ -307,6 +307,8 @@ README
 = 1.0.0 =
 * Initial release — feature‑complete for single‑SKU inventory sync.
 
+== Screenshots ==
+
 == License ==
 Released under GPL‑2.0‑or‑later. Fork it, modify, enjoy!
 */
